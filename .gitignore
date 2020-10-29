@@ -1,0 +1,16 @@
+node_modules
+uploads/
+config/env/env.js
+package-lock.json
+api/instruments/controllers/modules/word/pbdocument/
+api/instruments/controllers/modules/word/lcdocument/
+api/instruments/controllers/modules/word/pgdocument/
+api/instruments/controllers/modules/word/sblcdocument/
+api/instruments/controllers/modules/word/facilitydocument/
+api/instruments/controllers/modules/word/bgdocument/
+api/instruments/controllers/modules/word/apbdocument/
+api/instruments/controllers/modules/word/apgdocument/
+api/instruments/modules/word/sblcdocument/
+config/env/env.prod.js
+attachements
+config/env/
