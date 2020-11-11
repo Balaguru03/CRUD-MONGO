@@ -8,6 +8,10 @@ var models = moongoose.model('bala-test',{
     verified:{
         type:Boolean
     },    
+    image:{
+        type:String,
+        default:''
+    },
     student:[{
         FirstName:{
             type:String
